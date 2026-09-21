@@ -1,0 +1,6 @@
+id=power_brightness_fix
+name=Power Brightness Wake Fix
+version=1.0
+versionCode=1
+author=no4mat
+description=Arregla el problema con la pantalla generica que no enciende al pulsar el boton de encendido en Redmi Note 10 Pro :p
